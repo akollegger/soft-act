@@ -1,0 +1,12 @@
+########################################
+# NEO4J SOFTWARE FEATURE ACTIVATION CODE
+activationVersion: 1.0.0
+hackedInValue: 'this should invalidate the activation code'
+featureName: /.*/
+featureVersion: '*'
+registrant: /.*/
+organization: /.*/
+email: /.+@.+/
+expirationDate: '2018-10-10T18:41:19.309Z'
+signature: >-
+  59d5c41faf83eb23bf2fe15b2c41f369cabfd57c667efb60e800c43d15d79199c3787fe45b6b22aeaae3484ddb7ec4d0f4fafcbbe1192f1a3de249ed2022a2c8d5d0c488bb9356b96cc5ecb5a93efcf31c6965b0a437f65bc1849161c6452fdfc6c863d0b756e69b51336cede2d784ced2f3b892d1d596be997da79736e0bd62c5c8ec1be3515351bffa88e42725e62d862a86bda429844596393fc9f2f04b59ac590f215086299e1a9d8c6f476aa12ff0b90d206618220fa1f28d1e8d395d36ad79e674a7acbdff926b3b817ac915600d8560f19934aa6f7545fc2ce8191df26fa805d297539db358592a0c77853564f625a9ac9e000c150528567c1553baee
